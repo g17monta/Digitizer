@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "316357630064",
+    "firebase_url": "https://digitizer-22801.firebaseio.com",
+    "project_id": "digitizer-22801",
+    "storage_bucket": "digitizer-22801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316357630064:android:068e11629968461a",
+        "android_client_info": {
+          "package_name": "com.example.azmontcort.digitizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316357630064-fq916btab2ticv778p29ovpg67rq41m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVSgHCI6b_yHIqc82yC9U7M8F4mBTAPuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
